@@ -1,0 +1,13 @@
+@media only screen
+and (max-width:400px)
+and (-webkit-min-device-pixel-ratio: 1){
+  #restaurants-list .restaurant-img {
+    background-color: #ccc;
+    display: flex;
+    margin: 0;
+    max-width: 100%;
+    min-height: 250px;
+    min-width: 100%;
+  }
+
+}
